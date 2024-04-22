@@ -1,0 +1,18 @@
+# ninja log v5
+4	57	1713551247817278277	CMakeFiles/AIZO1.dir/service/arrayGenerator/arrayGenerator.cpp.o	94250b65b436be42
+9	215	1713374612178192188	CMakeFiles/AIZO1.dir/service/quickSortDescending/quickSortDescending.cpp.o	155415a7468485b0
+656	745	1713559179159256762	AIZO1	dcd00b131f687fd0
+3	117	1713018491913008637	CMakeFiles/AIZO1.dir/sorters/insertionSort/insertionSort.cpp.o	dff056b2339eef23
+4	490	1713545438449611072	CMakeFiles/AIZO1.dir/sorters/quickSort/quickSort.cpp.o	3061f4f4886b7d9a
+4	437	1713551248200775628	CMakeFiles/AIZO1.dir/sorters/quickSort/quickSortCall.cpp.o	5b8d5ad7a61bd7df
+0	67	1713774194897524755	build.ninja	cfd8f313d4165547
+6	177	1713551201144974623	CMakeFiles/AIZO1.dir/sorters/heapSort/heapSortCall.cpp.o	95821d59e017aec9
+0	13	0	clean	3c8e6cc385ee00ba
+3	426	1713551248189379517	CMakeFiles/AIZO1.dir/sorters/heapSort/heapSort.cpp.o	5e247da49fec44d3
+15	233	1713044930328922599	CMakeFiles/AIZO1.dir/service/fileHandler/plik.cpp.o	d2a5f7db75d669d3
+4	197	1713551201164860705	CMakeFiles/AIZO1.dir/sorters/shellSort/shellSort.cpp.o	6348c2faada44536
+3	510	1713559057198542605	CMakeFiles/AIZO1.dir/service/fileLoader.cpp.o	360c4c3b633e32fb
+7	120	1713009546748849382	CMakeFiles/AIZO1.dir/service/correctionTest/correctionTest.cpp.o	bb6812bb0d8dd924
+2	655	1713559179068583982	CMakeFiles/AIZO1.dir/service/main.cpp.o	6bd441425a785191
+5	480	1713551248243654967	CMakeFiles/AIZO1.dir/sorters/insertionSort/insertionSortCall.cpp.o	f2f0eb269a58f55e
+5	133	1713551247894668479	CMakeFiles/AIZO1.dir/sorters/shellSort/shellSortCall.cpp.o	4861a90bc80367c
